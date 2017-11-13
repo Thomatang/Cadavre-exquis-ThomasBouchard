@@ -78,3 +78,6 @@ There once was an andoid named _2B_
 
 She was part of the *YoRHa* group
 > This group was created for mankind's salavation after being invaded from space
+
+
+Je ne cherche pas à connaître les réponses, je cherche à comprendre les questions.
