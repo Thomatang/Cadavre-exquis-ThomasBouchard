@@ -44,3 +44,7 @@ It's 10 P.M., where your seeds at? What's the deal
 _In your stupid repo._
 *Really not,i'm not a sheep*
 
+
+Beaches are really gret in summer.
+You can be in your swimsuit or naked. 
+### **Enjoy the sun !**
