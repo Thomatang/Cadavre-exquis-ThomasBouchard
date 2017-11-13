@@ -1,4 +1,4 @@
-# Cadavre-exquis-ThomasBouchard
+﻿# Cadavre-exquis-ThomasBouchard
 Exercice Becode la prairie startup Hamilton
 
 # **La mer au bord de la plage**
@@ -78,6 +78,11 @@ There once was an andoid named _2B_
 
 She was part of the *YoRHa* group
 > This group was created for mankind's salavation after being invaded from space
+ 
+ 
+ * Cétacé dit la baleine.
+ * Tu t'incrustes assez, dit le homard.
+ * J'ai la peau lisse et le dos fin.
 
 
 Je ne cherche pas à connaître les réponses, je cherche à comprendre les questions.
