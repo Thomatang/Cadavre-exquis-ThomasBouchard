@@ -29,3 +29,13 @@ I hope my polluting stops soon.
 >>>>>>> f5d71128e8d20fb023644cc6954dde7bc5621c9f
 
 PUSH IT TO THE LIMIT
+
+
+Yo, it's one universal law but two sides to every story
+Three strikes and you be in for life, manditory
+Four MC's murdered in the last four years
+I ain't tryin to be the fifth one, the millennium is here
+Yo it's 6 Million Ways to Die, from the seven deadly thrills
+Eight-year olds gettin found with 9 mill's
+It's 10 P.M., where your seeds at? What's the deal
+
