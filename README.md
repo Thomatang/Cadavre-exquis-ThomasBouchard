@@ -86,3 +86,6 @@ She was part of the *YoRHa* group
 
 
 Je ne cherche pas à connaître les réponses, je cherche à comprendre les questions.
+
+“The door is more than it appears. It separates who you are from who you can be. You do not have to walk through it.”
+– Franklin Richards
