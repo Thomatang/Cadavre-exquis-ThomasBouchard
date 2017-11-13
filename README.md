@@ -16,8 +16,14 @@ It was a large lovely garden,
  with soft green grass.
  Here and there over the grass stood beautiful flowers like stars,
 
+<<<<<<< HEAD
 Been writing all day. 
 
 Rubbish on the readme.
 
 I hope my polluting stops soon.
+=======
+## Ik ging slapen met een doezoe, werd wakker met een ton
+## En vaak denk ik aan vroeger, ik weet waar het begon
+## Nu denk ik aan miljoenen, nee vraag me niet waarom
+>>>>>>> f5d71128e8d20fb023644cc6954dde7bc5621c9f
