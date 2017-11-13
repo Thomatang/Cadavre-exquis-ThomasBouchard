@@ -53,7 +53,7 @@ _In your stupid repo._
 =======
 
 Beaches are really gret in summer.
-You can be in your swimsuit or naked. 
+You can be in your swimsuit or naked.
 ### **Enjoy the sun !**
 =======
 =======
@@ -73,3 +73,8 @@ We love [GitHub](https://github.com) so much :heart:
 It will be so *fun* when everybody will use it and we should manage `100` conflicts.
 
 Master and branches power
+
+There once was an andoid named _2B_
+
+She was part of the *YoRHa* group
+> This group was created for mankind's salavation after being invaded from space
