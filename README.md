@@ -53,7 +53,7 @@ _In your stupid repo._
 =======
 
 Beaches are really gret in summer.
-You can be in your swimsuit or naked. 
+You can be in your swimsuit or naked.
 ### **Enjoy the sun !**
 =======
 =======
@@ -73,3 +73,8 @@ We love [GitHub](https://github.com) so much :heart:
 It will be so *fun* when everybody will use it and we should manage `100` conflicts.
 
 Master and branches power
+
+## In every job that must be done
+## There is an element of fun
+## You find the fun and snap!
+## **The job's a game**
