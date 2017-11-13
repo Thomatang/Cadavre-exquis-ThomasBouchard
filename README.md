@@ -17,7 +17,7 @@ It was a large lovely garden,
  Here and there over the grass stood beautiful flowers like stars,
 
 <<<<<<< HEAD
-Been writing all day. 
+Been writing all day.
 
 Rubbish on the readme.
 
@@ -27,3 +27,5 @@ I hope my polluting stops soon.
 ## En vaak denk ik aan vroeger, ik weet waar het begon
 ## Nu denk ik aan miljoenen, nee vraag me niet waarom
 >>>>>>> f5d71128e8d20fb023644cc6954dde7bc5621c9f
+
+PUSH IT TO THE LIMIT
