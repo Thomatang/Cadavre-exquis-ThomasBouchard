@@ -15,3 +15,9 @@ Bon maintenant je switch en français parce que Maurice m'a dit de le faire.
 It was a large lovely garden,
  with soft green grass.
  Here and there over the grass stood beautiful flowers like stars,
+
+Been writing all day. 
+
+Rubbish on the readme.
+
+I hope my polluting stops soon.
